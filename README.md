@@ -8,11 +8,10 @@
 <p align="left"> <a href="https://twitter.com/18anupamsinha" target="blank"><img src="https://img.shields.io/twitter/follow/18anupamsinha?logo=twitter&style=for-the-badge" alt="18anupamsinha" /></a> </p>
 
 - 💬 Ask me about **React, frontend Technolgoies**
+  
+- 📫 How to reach me  <a href="mailto:18anupam.sinha@gmail.com" style="color: green;">18anupam.sinha@gmail.com</a>
 
-- 📫 How to reach me **18anupam.sinha@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/14A3HvcjZflFs-LcC7g5YjcMZYQWrVKhb/view?usp=sharing](https://drive.google.com/file/d/14A3HvcjZflFs-LcC7g5YjcMZYQWrVKhb/view?usp=sharing)
-
+- 📄 Know about my experiences **[View my resume](https://drive.google.com/file/d/14A3HvcjZflFs-LcC7g5YjcMZYQWrVKhb/view?usp=sharing)**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/18anupamsinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="18anupamsinha" height="30" width="40" /></a>
