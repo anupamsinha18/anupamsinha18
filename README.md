@@ -1,3 +1,4 @@
+![logo](https://github.com/anupamsinha18/anupamsinha18/blob/main/Sparkle(2).png)
 <h1 align="center">Hi 👋, I'm Anupam Sinha</h1>
 <h3 align="center">A dedicated MERN stack and React Native developer with a flair for creating dynamic and secure web applications from India</h3>
 <img align="right"  alt ="coding" width="400" src="https://e0.pxfuel.com/wallpapers/358/714/desktop-wallpaper-stefan-iordache-your-desired-developer-to-make-your-perfect-responsive-website-web-programming.jpg">
